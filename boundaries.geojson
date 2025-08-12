@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "id": "10"
-        "name": "Chicago ARTCC"
-        "division": "WARPUS"
+        "id": "10",
+        "name": "Chicago ARTCC",
+        "division": "WARPUS",
         "guilded frequency": "101.890"
       },
       "geometry": {
